@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./TrafficLights.css";
+import '../component/TrafficLights.css';
 
 const TrafficLights = () => {
   const [color, setColor] = useState({
