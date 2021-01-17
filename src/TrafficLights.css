@@ -1,0 +1,63 @@
+body {
+  background: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX10206816.jpg);
+}
+
+.boxClub {
+  background-color: rgb(43, 37, 37);
+  width: 30px;
+  height: 60px;
+  margin-left: 545px;
+  position: absolute;
+  border-radius: 5px;
+}
+
+.box {
+  background-color: rgb(43, 37, 37);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.redlight {
+  background: rgb(209, 109, 104);
+  background: linear-gradient(
+    188deg,
+    rgba(209, 109, 104, 1) 0%,
+    rgba(233, 18, 18, 1) 100%
+  );
+  padding: 40px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.yellowlight {
+  background: rgb(249, 255, 0);
+  background: linear-gradient(
+    188deg,
+    rgba(249, 255, 0, 1) 0%,
+    rgba(136, 130, 22, 1) 100%
+  );
+  padding: 40px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.greenlight {
+  background: rgb(56, 213, 28);
+  background: linear-gradient(
+    188deg,
+    rgba(56, 213, 28, 1) 0%,
+    rgba(158, 215, 47, 1) 100%
+  );
+  padding: 40px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.glowy {
+  -webkit-box-shadow: -1px 0px 5px 13px rgba(232, 221, 153, 0.43);
+  -moz-box-shadow: -1px 0px 5px 13px rgba(232, 221, 153, 0.43);
+  box-shadow: -1px 0px 5px 13px rgba(232, 221, 153, 0.43);
+}
